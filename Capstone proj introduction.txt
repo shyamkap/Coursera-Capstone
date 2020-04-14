@@ -1,0 +1,13 @@
+KICK-START OWN BUSINESS @TORONTO
+			
+			(Capstone Project - The Battle of Neighborhoods)
+
+
+Introduction/Business Problem 
+			
+
+As a part of Coursera IBM  Data Science professional certificate capstone project we are asked to cluster the neighbourhood of city Toronto. This project ‘Kick-start own business at Toronto ‘ is focused towards finding a best solution  to customer/investor  who wants to start a new business in city Toronto. 
+
+The  customer wants to know the locations where he can probably start a new business and what business he should be taking so that it will get him maximum business plus profit.The Customer also wants five options of business for him to choose from for a particular neighbour city in Toronto where he wishes to start a business. 
+
+To address the above problem we use Data science technique which can provide more explanatory solution to the customer/investor . In this project using different algorithms available in Data Science and with support to various API and libraries we will provide more accurate and data driven solution to the problem.
